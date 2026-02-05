@@ -138,6 +138,27 @@ Microsoft Foundry や GitHub Copilot、AI 開発に関心を持つエンジニ�
 - **AOAI Dev Day 公式サイト**<br>
   https://aoai-devday.com/
 
+## 福岡グルメ情報
+
+福岡ならではの名店をいくつかピックアップしました。会場周辺や空港到着・出発時の参考にどうぞ。
+
+- **福岡空港 ラーメン滑走路**（空港内）<br>
+  https://www.fukuoka-airport.jp/shops/ramen/
+- **天麩羅処ひらお**<br>
+  https://www.hirao-foods.net/
+- **元祖長浜屋**（長浜ラーメン）<br>
+  http://www.ganso-nagahamaya.co.jp/
+- **博多一双**（とんこつラーメン）<br>
+  http://hakata-issou.com/
+- **博多一幸舎**（とんこつラーメン）<br>
+  https://www.ikkousha.com/
+- **博多らーめんShinShin**<br>
+  https://www.hakata-shinshin.com/
+- **ふとっぱら**（ラーソーメンが有名）<br>
+  https://www.futoppara.com/
+- **資さんうどん**（すけさんうどん、東京にも最近できてますけども）<br>
+  https://www.sukesanudon.com/
+
 # アンチハラスメントポリシーについて
 当コミュニティではすべての参加者(スピーカー、スタッフ、参加者、その他サポートしてくれるすべての関係者)は以下の規範に同意する必要があります。われわれはかかわるすべての人に安全な環境が提供されるように参加者全員がこれに協力することを期待します。
 
