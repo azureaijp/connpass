@@ -107,7 +107,7 @@ Microsoft Foundry や GitHub Copilot、AI 開発に関心を持つエンジニ�
 
 <img src="https://pbs.twimg.com/profile_images/1895452139821973504/YJn6vavU_400x400.jpg" width="150">
 
-> #YonaAz 主催しています Sier2児のパパ です。#AVD #Azure #AzureNetwork 資格: Azure Solutions Architect Expert ・Azure Virtual Desktop Specialty など #AzPoC Microsoft MVP for Azure
+> &#35;YonaAz 主催しています Sier2児のパパ です。#AVD #Azure #AzureNetwork 資格: Azure Solutions Architect Expert ・Azure Virtual Desktop Specialty など #AzPoC Microsoft MVP for Azure
 
 ## Daiki.U / ([@daiki7nohen](https://x.com/daiki7nohen))
 
