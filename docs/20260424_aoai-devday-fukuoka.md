@@ -28,16 +28,16 @@ Microsoft Foundry や GitHub Copilot を活用して本気でビジネスを変�
 
 | 時間 | 内容 |スピーカー|
 |------|------|------|
-| 14:00～14:30 | **オープニング**<br>**セッション1**（タイトル未定） | Kazuyuki Sakemi（仮） |
+| 14:00～14:30 | **オープニング**<br>**セッション1**<br>そういえば Microsoft Agent 365 ってどうなったの（仮） | Kazuyuki Sakemi（仮） |
 | 14:30～15:00 | **セッション2**<br>（タイトル未定） | Maki Nagase（仮） |
 | 15:00～15:15 | **休憩** | - |
-| 15:15～15:45 | **セッション3**<br>（タイトル未定） | (スピーカー未定) |
+| 15:15～15:45 | **セッション3**<br>GitHub Copilotと巡る巨大リポジトリ探索ツアー（仮） | 松尾 宏介 さん |
 | 15:45～16:15 | **セッション4**<br>（タイトル未定） | (スピーカー未定) |
 | 16:15～16:30 | **休憩** | - |
-| 16:30～17:00 | **セッション5**<br>（タイトル未定） | (スピーカー未定) |
-| 17:00～17:30 | **セッション6**<br>（タイトル未定） | (スピーカー未定) |
+| 16:30～17:00 | **セッション5**<br>（タイトル未定） | やしきん |
+| 17:00～17:30 | **セッション6**<br>（タイトル未定） | Yuya |
 | 17:30～17:45 | **休憩** | - |
-| 17:45～18:15 | **セッション7**<br>（タイトル未定） | (スピーカー未定) |
+| 17:45～18:15 | **セッション7**<br>（タイトル未定） | Daiki.U |
 | 18:15～18:30 | **クロージング** | - |
 
 ※タイムテーブルは調整中のため、変更される可能性があります。
@@ -83,7 +83,6 @@ Microsoft Foundry や GitHub Copilot、AI 開発に関心を持つエンジニ�
 
 > Microsoft MVP。JAZUG (Japan Azure User Group）やAI駆動開発勉強会の運営、Azureわいがや会の主催など、Microsoft AzureやGitHubを楽しむ仲間を増やす活動に力を入れている。
 
-
 ## Kazuyuki Sakemi （酒見 一幸） / ([@_skmkzyk](https://x.com/_skmkzyk))
 
 <img src="https://aoai-devday.com/images/2025/members/skmkzyk.png" width="150">
@@ -91,6 +90,30 @@ Microsoft Foundry や GitHub Copilot、AI 開発に関心を持つエンジニ�
 <p><font size="3"><strong>株式会社プログライブ コンサルティング シニア コンサルタント</strong></font></p>
 
 > Microsoft MVP for Microsoft MVP since 2024! #Microsoft and #Azure lover! Working at ProGrive Consulting Co., Ltd. 著書に「Azureの知識地図（技術評論社）」
+
+## 松尾 宏介 | Rakuten / ([@kouboyz](https://x.com/kouboyz))
+
+<img src="https://pbs.twimg.com/profile_images/1990361072084439040/ghf2WDg-_400x400.jpg" width="150">
+
+> エンジニアのトキメキを追求する九州男児 | トンカツ至上主義 | 楽天カードのEngineering Manager | 巨人 | トンカツ
+
+## やしきん / ([@yashiki0520](https://x.com/yashiki0520))
+
+<img src="https://pbs.twimg.com/profile_images/1817861798101749760/CRuVDYJI_400x400.jpg" width="150">
+
+> 大分高専→九工大→株式会社オルターブース(クラウドエンジニア)AzureやSORACOM（IoT）時々AWSを触っています/Azure Solutions Architect Expert/鳥、コウペンちゃん、アイドル、アニメ、ロックがすきです🙌
+
+## Yuya / ([@yuyanz_](https://x.com/yuyanz_))
+
+<img src="https://pbs.twimg.com/profile_images/1895452139821973504/YJn6vavU_400x400.jpg" width="150">
+
+> #YonaAz 主催しています Sier2児のパパ です。#AVD #Azure #AzureNetwork 資格: Azure Solutions Architect Expert ・Azure Virtual Desktop Specialty など #AzPoC Microsoft MVP for Azure
+
+## Daiki.U / ([@daiki7nohen](https://x.com/daiki7nohen))
+
+<img src="https://pbs.twimg.com/profile_images/2007823734732988417/xoTbtiVT_400x400.jpg" width="150">
+
+> Markdown to Figma Slides 👉 figdeck | YAML to FigJam for Architecture Diagram 👉 figram
 
 ## And more... 
 
