@@ -26,22 +26,21 @@ Microsoft Foundry や GitHub Copilot を活用して本気でビジネスを変�
 
 ## タイムテーブル
 
-| 時間 | 内容 |スピーカー|
+| 時間 | 内容 | スピーカー |
 |------|------|------|
-| 14:00～14:30 | **オープニング**<br>**セッション1**<br>そういえば Microsoft Agent 365 ってどうなったの（仮） | Kazuyuki Sakemi（仮） |
-| 14:30～15:00 | **セッション2**<br>（タイトル未定） | Maki Nagase（仮） |
-| 15:00～15:15 | **休憩** | - |
-| 15:15～15:45 | **セッション3**<br>GitHub Copilotと巡る巨大リポジトリ探索ツアー（仮） | 松尾 宏介 さん |
-| 15:45～16:15 | **セッション4**<br>（タイトル未定） | (スピーカー未定) |
-| 16:15～16:30 | **休憩** | - |
-| 16:30～17:00 | **セッション5**<br>（タイトル未定） | やしきん さん |
-| 17:00～17:30 | **セッション6**<br>（タイトル未定） | Yuya さん |
-| 17:30～17:45 | **休憩** | - |
-| 17:45～18:15 | **セッション7**<br>（タイトル未定） | Daiki.U さん |
-| 18:15～18:30 | **クロージング** | - |
+| 14:00～14:10 | **オープニング** | Kazuyuki Sakemi |
+| 14:10～14:40 | **セッション1**<br>未定 | Yuichi Watanabe |
+| 14:40～14:50 | **休憩** | - |
+| 14:50～15:20 | **セッション2**<br>GitHub Copilotと巡る巨大リポジトリ探索ツアー（仮） | 松尾 宏介 |
+| 15:20～15:50 | **セッション3**<br>未定 | 中嶋 竜之介（なかむら りゅうのすけ） |
+| 15:50～16:00 | **休憩** | - |
+| 16:00～16:30 | **セッション4**<br>個人ツールから組織基盤へ：AI組織プラグイン活用 | Daiki Urata |
+| 16:30～17:00 | **セッション5**<br>GitHub Copilotで変わった AIとの付き合い方<br>2か月で世界が変わった話 | yuya |
+| 17:00～17:10 | **休憩** | - |
+| 17:10～17:40 | **セッション6**<br>GitHub Copilot CLIのターミナル活用を学ぶ！ | 中屋敷 槻（やしきん） |
+| 17:40～18:10 | **セッション7**<br>エージェントスキルを作って自分のインプットに役立てよう | Yuta Matsumura |
 
 ※タイムテーブルは調整中のため、変更される可能性があります。
-また、さけみさんと maki さんは登壇予定（仮）ですが、スピーカーが想定どおり集まった場合にはそちらを優先します！
 
 # イベントの特徴
 
@@ -75,21 +74,15 @@ Microsoft Foundry や GitHub Copilot、AI 開発に関心を持つエンジニ�
 
 # Speakers
 
-## Maki Nagase（長瀬 マキ） 
-
-<img src="https://aoai-devday.com/images/2025/members/maki.jpg" width="150">
-
-<p><font size="3"><strong>ゼンアーキテクツ</strong></font></p>
-
-> Microsoft MVP。JAZUG (Japan Azure User Group）やAI駆動開発勉強会の運営、Azureわいがや会の主催など、Microsoft AzureやGitHubを楽しむ仲間を増やす活動に力を入れている。
-
 ## Kazuyuki Sakemi （酒見 一幸） / ([@_skmkzyk](https://x.com/_skmkzyk))
 
 <img src="https://aoai-devday.com/images/2025/members/skmkzyk.png" width="150">
 
-<p><font size="3"><strong>株式会社プログライブ コンサルティング シニア コンサルタント</strong></font></p>
+> #Microsoft and #Azure lover! Working at AEON Smart Technology Co., Ltd. 著書に「Azureの知識地図（技術評論社）」
 
-> Microsoft MVP for Microsoft MVP since 2024! #Microsoft and #Azure lover! Working at ProGrive Consulting Co., Ltd. 著書に「Azureの知識地図（技術評論社）」
+## Yuichi Watanabe
+
+> あとで更新するかも
 
 ## 松尾 宏介 | Rakuten / ([@kouboyz](https://x.com/kouboyz))
 
@@ -97,11 +90,15 @@ Microsoft Foundry や GitHub Copilot、AI 開発に関心を持つエンジニ�
 
 > エンジニアのトキメキを追求する九州男児 | トンカツ至上主義 | 楽天カードのEngineering Manager | 巨人 | トンカツ
 
-## やしきん / ([@yashiki0520](https://x.com/yashiki0520))
+## 中嶋 竜之介（なかむら りゅうのすけ）
 
-<img src="https://pbs.twimg.com/profile_images/1817861798101749760/CRuVDYJI_400x400.jpg" width="150">
+> あとで更新するかも
 
-> 大分高専→九工大→株式会社オルターブース(クラウドエンジニア)AzureやSORACOM（IoT）時々AWSを触っています/Azure Solutions Architect Expert/鳥、コウペンちゃん、アイドル、アニメ、ロックがすきです🙌
+## Daiki.U / ([@daiki7nohen](https://x.com/daiki7nohen))
+
+<img src="https://pbs.twimg.com/profile_images/2007823734732988417/xoTbtiVT_400x400.jpg" width="150">
+
+> Markdown to Figma Slides 👉 figdeck | YAML to FigJam for Architecture Diagram 👉 figram
 
 ## Yuya / ([@yuyanz_](https://x.com/yuyanz_))
 
@@ -109,11 +106,18 @@ Microsoft Foundry や GitHub Copilot、AI 開発に関心を持つエンジニ�
 
 > &#35;YonaAz 主催しています Sier2児のパパ です。#AVD #Azure #AzureNetwork 資格: Azure Solutions Architect Expert ・Azure Virtual Desktop Specialty など #AzPoC Microsoft MVP for Azure
 
-## Daiki.U / ([@daiki7nohen](https://x.com/daiki7nohen))
+## やしきん / ([@yashiki0520](https://x.com/yashiki0520))
 
-<img src="https://pbs.twimg.com/profile_images/2007823734732988417/xoTbtiVT_400x400.jpg" width="150">
+<img src="https://pbs.twimg.com/profile_images/1817861798101749760/CRuVDYJI_400x400.jpg" width="150">
 
-> Markdown to Figma Slides 👉 figdeck | YAML to FigJam for Architecture Diagram 👉 figram
+> 大分高専→九工大→株式会社オルターブース(クラウドエンジニア)AzureやSORACOM（IoT）時々AWSを触っています/Azure Solutions Architect Expert/鳥、コウペンちゃん、アイドル、アニメ、ロックがすきです🙌
+
+## Yuta Matsumura / ([@tsubakimoto_s](https://x.com/tsubakimoto_s))
+
+<img src="https://pbs.twimg.com/profile_images/1738403450801864704/EDB6VY29_400x400.png" width="150">
+
+> 福岡, Microsoft MVP #MVPBuzz, C#, PHP, Azure, MLB, アニメ, #fukuten, #jazug, #ヘブバン, #アイプラ, working at 
+@alterbooth_inc Chief Technical Architect
 
 ## And more... 
 
@@ -133,9 +137,9 @@ Microsoft Foundry や GitHub Copilot、AI 開発に関心を持つエンジニ�
 
 <img src="https://aoai-devday.com/images/2025/members/skmkzyk.png" width="150">
 
-<p><font size="3"><strong>株式会社プログライブ コンサルティング シニア コンサルタント</strong></font></p>
+<p><font size="3"><strong>イオンスマートテクノロジー株式会社 SRE</strong></font></p>
 
-> Microsoft MVP for Microsoft MVP since 2024! #Microsoft and #Azure lover! Working at ProGrive Consulting Co., Ltd. 著書に「Azureの知識地図（技術評論社）」
+> Microsoft MVP for Microsoft MVP since 2024! #Microsoft and #Azure lover! Working at AEON Smart Technology Co., Ltd. 著書に「Azureの知識地図（技術評論社）」
 
 ## Kazuyuki Miyake（三宅 和之） 
 
