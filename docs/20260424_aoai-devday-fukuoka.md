@@ -79,7 +79,7 @@ Microsoft Foundry や GitHub Copilot、AI 開発に関心を持つエンジニ�
 
 <img src="https://aoai-devday.com/images/2025/members/skmkzyk.png" width="150">
 
-> #Microsoft and #Azure lover! Working at AEON Smart Technology Co., Ltd. 著書に「Azureの知識地図（技術評論社）」
+> &#35;Microsoft and #Azure lover! Working at AEON Smart Technology Co., Ltd. 著書に「Azureの知識地図（技術評論社）」
 
 ## Yuichi Watanabe
 
