@@ -29,9 +29,9 @@ Microsoft Foundry や GitHub Copilot を活用して本気でビジネスを変�
 | 時間 | 内容 | スピーカー |
 |------|------|------|
 | 14:00～14:10 | **オープニング** | Kazuyuki Sakemi |
-| 14:10～14:40 | **セッション1**<br>未定 | Yuichi Watanabe |
+| 14:10～14:40 | **セッション1**<br>Shipping AI Agents: Lessons from Production | Yuichi Watanabe |
 | 14:40～14:50 | **休憩** | - |
-| 14:50～15:20 | **セッション2**<br>GitHub Copilotと巡る巨大リポジトリ探索ツアー（仮） | 松尾 宏介 |
+| 14:50～15:20 | **セッション2**<br>AIで読み解く巨大レガシー基幹システム | 松尾 宏介 |
 | 15:20～15:50 | **セッション3**<br>その機能、半年後も存在価値はありますか？ | 中邨 竜之介（なかむら りゅうのすけ） |
 | 15:50～16:00 | **休憩** | - |
 | 16:00～16:30 | **セッション4**<br>個人ツールから組織基盤へ：AI組織プラグイン活用 | Daiki Urata |
@@ -81,9 +81,14 @@ Microsoft Foundry や GitHub Copilot、AI 開発に関心を持つエンジニ�
 
 > &#35;Microsoft and #Azure lover! Working at AEON Smart Technology Co., Ltd. 著書に「Azureの知識地図（技術評論社）」
 
-## Yuichi Watanabe
+## Yuichi Watanabe（渡邉祐一） / ([@vvvatanabe](https://x.com/vvvatanabe))
 
-> あとで更新するかも
+<img src="https://pbs.twimg.com/profile_images/2038273768758628352/FKJlbNy0_400x400.jpg" width="150">
+
+<p><font size="3"><strong>株式会社ヌーラボ</strong></font></p>
+
+> Principal Software Engineer / AI Integration Unit Lead / Datadog Design Partner / Mastra Contributor
+> 業務で使うOSSへの貢献を大切にしています。
 
 ## 松尾 宏介 | Rakuten / ([@kouboyz](https://x.com/kouboyz))
 
@@ -117,39 +122,33 @@ Microsoft Foundry や GitHub Copilot、AI 開発に関心を持つエンジニ�
 
 <img src="https://pbs.twimg.com/profile_images/1738403450801864704/EDB6VY29_400x400.png" width="150">
 
-> 福岡, Microsoft MVP #MVPBuzz, C#, PHP, Azure, MLB, アニメ, #fukuten, #jazug, #ヘブバン, #アイプラ, working at 
-@alterbooth_inc Chief Technical Architect
-
-## And more... 
-
-(他のスピーカー情報は後日更新予定です)
+> 福岡, Microsoft MVP #MVPBuzz, C#, PHP, Azure, MLB, アニメ, #fukuten, #jazug, #ヘブバン, #アイプラ, working at [@alterbooth_inc](https://x.com/alterbooth_inc) Chief Technical Architect
 
 # Organizers
 
-## Maki Nagase（長瀬 マキ） 
+## Maki Nagase（長瀬 マキ） / ([@yuma_prog](https://x.com/yuma_prog))
 
 <img src="https://aoai-devday.com/images/2025/members/maki.jpg" width="150">
 
 <p><font size="3"><strong>ゼンアーキテクツ</strong></font></p>
 
-> Microsoft MVP。JAZUG(Japan Azure User Group）やAI駆動開発勉強会の運営、Azureわいがや会の主催など、Microsoft AzureやGitHubを楽しむ仲間を増やす活動に力を入れている。
+> Microsoft MVP。JAZUG（Japan Azure User Group）やAI駆動開発勉強会の運営、Azureわいがや会の主催など、Microsoft AzureやGitHubを楽しむ仲間を増やす活動に力を入れている。
 
 ## Kazuyuki Sakemi （酒見 一幸） / ([@_skmkzyk](https://x.com/_skmkzyk))
 
 <img src="https://aoai-devday.com/images/2025/members/skmkzyk.png" width="150">
 
-<p><font size="3"><strong>イオンスマートテクノロジー株式会社 SRE</strong></font></p>
+<p><font size="3"><strong>イオンスマートテクノロジー株式会社</strong></font></p>
 
 > Microsoft MVP for Microsoft MVP since 2024! #Microsoft and #Azure lover! Working at AEON Smart Technology Co., Ltd. 著書に「Azureの知識地図（技術評論社）」
 
-## Kazuyuki Miyake（三宅 和之） 
+## Kazuyuki Miyake（三宅 和之） / ([@kazuyukimiyake](https://x.com/kazuyukimiyake))
 
 <img src="https://aoai-devday.com/images/2025/members/miyake.jpg" width="150">
 
 <p><font size="3"><strong>ゼンアーキテクツ</strong></font></p>
 
 > ZEN Architects 代表。Azure(Serverless, PaaS), Vue.js, DevOps(GitHub) が好き。Microsoft MVP, Vue.js 日本ユーザーグループコアスタッフ。Hack Everything.
-
 
 ## Shingo Yoshida（吉田 真吾） 
 
@@ -190,15 +189,15 @@ Microsoft Foundry や GitHub Copilot、AI 開発に関心を持つエンジニ�
   https://www.taiho.co.jp/
 
 # アンチハラスメントポリシーについて
-当コミュニティではすべての参加者(スピーカー、スタッフ、参加者、その他サポートしてくれるすべての関係者)は以下の規範に同意する必要があります。われわれはかかわるすべての人に安全な環境が提供されるように参加者全員がこれに協力することを期待します。
+当コミュニティではすべての参加者（スピーカー、スタッフ、参加者、その他サポートしてくれるすべての関係者）は以下の規範に同意する必要があります。われわれはかかわるすべての人に安全な環境が提供されるように参加者全員がこれに協力することを期待します。
 
-## アンチハラスメントポリシー(短縮版)
-性別、性の同一性や表現、年齢、性的指向、身体障害、体型、体格、人種、または宗教(または逆に信仰を持たないこと)にかかわらず、誰に対しても嫌がらせのない参加体験を提供することに努めます。参加者への嫌がらせはいかなる行為も容認しません。性的な表現や画像などは、講演、ワークショップ、パーティー、TwitterやFacebookおよびその他すべてのオンラインメディアを含む、あらゆる場において不適切とみなします。これらの規則に違反した参加者は、たとえ有料イベントであっても開催者の裁量で返金することなく、これらの場所から追放され今後の参加の一切を断る可能性があります。
+## アンチハラスメントポリシー（短縮版）
+性別、性の同一性や表現、年齢、性的指向、身体障害、体型、体格、人種、または宗教（または逆に信仰を持たないこと）にかかわらず、誰に対しても嫌がらせのない参加体験を提供することに努めます。参加者への嫌がらせはいかなる行為も容認しません。性的な表現や画像などは、講演、ワークショップ、パーティー、X（Twitter）や Facebook およびその他すべてのオンラインメディアを含む、あらゆる場において不適切とみなします。これらの規則に違反した参加者は、たとえ有料イベントであっても開催者の裁量で返金することなく、これらの場所から追放され今後の参加の一切を断る可能性があります。
 
-## アンチハラスメントポリシー(完全版)
+## アンチハラスメントポリシー（完全版）
 「嫌がらせ」には、性別、年齢、性的指向、身体障害、体格、人種、宗教に関する不快な発言や、性的な画像の使用、意図的な脅迫、ストーキング行為、望まない写真撮影や録音・録画、議論の中断を招く不快な発言、不適切な身体的接触、歓迎すべきでない性的関心を引く行為が含まれます。<br>
 
-嫌がらせ行為を中止するように求められた参加者は、直ちに遵守することが求められます。<br><br>
+嫌がらせ行為を中止するように求められた参加者は、直ちに遵守することが求められます。<br>
 
 参加者が嫌がらせ行為に関与している場合、主催者は、違反者への警告や(たとえ有料イベントであっても)返金なしでの即時退場など、適切と思われる行動を取ることができます。<br>
 
@@ -209,16 +208,16 @@ Microsoft Foundry や GitHub Copilot、AI 開発に関心を持つエンジニ�
 われわれは、すべての参加者が勉強会、カンファレンス、ワークショップといったイベントの会場やイベント関連のミートアップにおいてこれらの規則に従うことを期待します。<br>
 
 # 個人情報保護について
-connpassの事前アンケートや申込フォームで頂いた個人情報を以下に定める内容にて取り扱います。
+connpass の事前アンケートや申込フォームで頂いた個人情報を以下に定める内容にて取り扱います。
 
 # 個人情報の利用目的について
 ご提供いただいた個人情報は、以下に定める目的にのみ利用いたします。
 
 - 申し込み者の入館時の本人確認のため
-- 当イベントのスポンサーにおけるPR活動のため【同意した人のみ】
+- 当イベントのスポンサーにおける PR 活動のため（同意した人のみ）
 
 # 個人情報の取扱
-取得した個人情報は、connpassでの入力により取得を行います。当サイト上での個人情報の取得にあたっては、提供時における確認などのクリックによって本人の同意を得たものとします。 当コミュニティでは、次のいずれかに該当する場合を除き、個人情報を第三者に開示・提供いたしません。
+取得した個人情報は、connpass での入力により取得を行います。当サイト上での個人情報の取得にあたっては、提供時における確認などのクリックによって本人の同意を得たものとします。 当コミュニティでは、次のいずれかに該当する場合を除き、個人情報を第三者に開示・提供いたしません。
 
 - 会場入館の目的に沿って会場提供者に入館申請を行う場合
 - 本人の同意がある場合
@@ -230,4 +229,4 @@ connpassの事前アンケートや申込フォームで頂いた個人情報を
 
 ---
 
-**一緒にAIの最先端を学び、ネットワークを広げましょう！**
+**一緒に AI の最先端を学び、ネットワークを広げましょう！**
