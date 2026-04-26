@@ -41,7 +41,7 @@ Microsoft Foundry や GitHub Copilot を活用して本気でビジネスを変�
 | 17:10～17:40 | **セッション6**<br>GitHub Copilot CLIのターミナル活用を学ぶ！ | やしきん |
 | 17:40～18:10 | **セッション7**<br>エージェントスキルを作って自分のインプットに役立てよう | Yuta Matsumura |
 | 18:10～18:30 | **クロージング** | Kazuyuki Sakemi & Maki Nagase |
-| 18:30～ | **懇親会（予定）** | - |
+| 18:30～ | **懇親会（🍕 の予定）<br> w/ DJs** | 💿Kazuyuki Miyake & 📀Atsushi Kojima |
 
 # イベントの特徴
 
